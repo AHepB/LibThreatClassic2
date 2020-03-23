@@ -519,6 +519,9 @@ ThreatLib.BLACKLIST_MOB_IDS = {
 	[14666] = true,		-- Corrupted Winfury Totem
 	[14668] = true,		-- Corrupted Infernal
 
+	-- MC
+	[11665] = true,     -- Lava Annihilator
+
 	-- Strathholme
 	[11197] = true,		-- Mindless Skeleton
 	[11030] = true,		-- Mindless Zombie
