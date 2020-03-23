@@ -38,6 +38,7 @@
 	<Script file="NPCModules\BlackwingLair\Firemaw.lua" />
 	<Script file="NPCModules\BlackwingLair\Flamegor.lua" />
 	<Script file="NPCModules\BlackwingLair\Ebonroc.lua" />
+	<Script file="NPCModules\BlackwingLair\RazorgoreTheUntamed.lua" />
 	<Script file="NPCModules\BlackwingLair\Nefarian.lua" />
 	<Script file="NPCModules\AQ40\Ouro.lua" />
 	<Script file="NPCModules\Naxxramas\Kelthuzad.lua" />
